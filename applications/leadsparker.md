@@ -16,20 +16,12 @@
 - **Contact Email:** leadsparker@protonmail.com
 - **Website:** https://leadsparker.medium.com/
 
-> ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
-
-## Project Overview
-
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
-
 ### Overview
 
-> Please provide the following:
-
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOS Network / Antelope:** An indication of how your project relates to / integrates into the EOS Network or Antelope software.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- **Name:** AI Ambassador Programs for Business to Business Sales Leads
+- **Brief Description:** LeadSparker has assembled a large team of ambassadors in the gig economy, equipped with AI tools. These ambassadors take a pre-defined lead list and engage with target social media accounts, creating a human touchpoint that is scalable. This process is coordinated by the LeadSparker core team, ensuring consistent engagement.
+- **Relationship to EOS Network / Antelope:** We are proposing to use the LeadSparker process to create leads for EOS EVM projects
+- **Reason for Interest:** As long time EOS holders and community members, the LeadSparker core team feels that the EOS EVM 
 
 ### Project Details
 
