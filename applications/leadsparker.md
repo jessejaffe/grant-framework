@@ -1,7 +1,7 @@
 # EOS Network Foundation Grant Proposal
 
 - **Project Name:** LeadSparker
-- **Team Name:** Tortuga Advertising LLC
+- **Team Name:** The Bees
 - **EOS Payment Address:** leadspark.gm
 - **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
 - **Pomelo Grant(s):** N/A
@@ -21,7 +21,7 @@
 - **Name:** AI Ambassador Programs for Business to Business Sales Leads
 - **Brief Description:** LeadSparker has assembled a large team of ambassadors in the gig economy, equipped with AI tools. These ambassadors take a pre-defined lead list and engage with target social media accounts, creating a human touchpoint that is scalable. This process is coordinated by the LeadSparker core team, ensuring consistent engagement.
 - **Relationship to EOS Network / Antelope:** We are proposing to use the LeadSparker process to create leads for EOS EVM projects
-- **Reason for Interest:** As long time EOS holders and community members, the LeadSparker core team feels that the EOS EVM 
+- **Reason for Interest:** As long time EOS holders and community members, the LeadSparker core team feels that the EOS EVM is the vehicle to grow the EOS ecosystem. 
 
 ### Project Details
 
