@@ -1,34 +1,20 @@
 # EOS Network Foundation Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project.
->
-> See the [Grant Framework Process](https://github.com/eosnetworkfoundation/grant-framework#grant-process-for-new-proposals) on how to submit a proposal.
-> 
-> Please do not remove any of the mandatory lines that start with **bold labels** or as headlines! Your application will be rejected!
->
-> Please do not remove the bolding of labels (such as **Bold Label:** ) as it is needed by the automated parsers - that includes the bolding on lines starting with a bullet as part of a list.
-> 
-> Please note that this application will be **automatically parsed**.  Please only put the data required in the fields following the bolded labels.
->
-> Deleting lines that start with **Bold Labels:** will cause your grant to be rejected! Please fill this out carefully if you want to be approved!
->
-> All "comment" lines starting with a `>` (such as this one and the ones above and below) should be removed.
+- **Project Name:** LeadSparker
+- **Team Name:** Tortuga Advertising LLC
+- **EOS Payment Address:** leadspark.gm
+- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1
+- **Pomelo Grant(s):** N/A
+- **Project is Open-Source:** No
+- **Project was part of Token sale:** No
+- **Repository where Project resides:** N/A
 
-- **Project Name:** Name of your project (e.g. Anchor Wallet)
-- **Team Name:** Legal name of your team (e.g. Greymass, Inc.)
-- **EOS Payment Address:** EOS payment address
-- **[Level](https://github.com/eosnetworkfoundation/grant-framework#grant-levels):** 1, 2 or 3
-- **Pomelo Grant(s):** List URL(s) to Pomelo grants for your team (or list N/A for non-applicable)
-- **Project is Open-Source:** Yes/No
-- **Project was part of Token sale:** Yes/No
-- **Repository where Project resides:** https://github.com/<your_organisation>/<project_repo>
-> Please only answer Yes or No to the Open-Source or Token sale questions.  Do not explain more on that line.  You may delete this line and all lines that begin with `>` from your application.
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
+- **Contact Name:** Jesse Jaffe
+- **Contact Email:** leadsparker@protonmail.com
+- **Website:** https://leadsparker.medium.com/
 
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
