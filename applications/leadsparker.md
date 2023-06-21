@@ -21,16 +21,12 @@
 - **Name:** AI Ambassador Programs for Business to Business Sales Leads
 - **Brief Description:** LeadSparker has assembled a large team of ambassadors in the gig economy, equipped with AI tools. These ambassadors take a pre-defined lead list and engage with target social media accounts, creating a human touchpoint that is scalable. This process is coordinated by the LeadSparker core team, ensuring consistent engagement.
 - **Relationship to EOS Network / Antelope:** LeadSparker is meant to create leads for EOS EVM projects
-- **Reason for Interest:** As long time EOS holders and community members, the LeadSparker core team believes the EOS EVM is where business development captial should be allocated in order to most effectively grow the EOS ecosystem. 
+- **Reason for Interest:** As long time EOS holders and community members, the LeadSparker core team believes the EOS EVM is where business development capital should be allocated in order to most effectively grow the EOS ecosystem. 
 
 ### Project Details
 
-- Mock-ups/designs of any UI components
-- Data models of the core functionality
-- API specifications of the core functionality
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
 - What your project is _not_ or will _not_ provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
