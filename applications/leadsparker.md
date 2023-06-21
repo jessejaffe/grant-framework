@@ -27,7 +27,7 @@
 
 - An overview of the technology stack to be used
 - Documentation of core components, protocols, architecture, etc. to be deployed: 
-   - [LeadSparker process flow1](https://drive.google.com/file/d/1uLDZsLMlr8JDwsekA5kxJTcY6dXzgUd/view?usp=sharing)
+   - [LeadSparker process flow1](https://drive.google.com/file/d/1uLDZsLMlr8JDwsekA5_kxJTcY6dXzgUd/view)
    - [LeadSparker process flow2](https://drive.google.com/file/d/1uLDZsLMlr8JDwsekA5kxJTcY6dXzgUd/view?usp=sharing)
    - [LeadSparker process flow3](https://drive.google.com/file/d/1OdRMt68cT15m2v4QzOsnjwB3vsHjjf/view?usp=sharing)
 - What your project is _not_ or will _not_ provide or implement
