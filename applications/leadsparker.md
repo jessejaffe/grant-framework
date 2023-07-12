@@ -31,35 +31,40 @@
    - [LeadSparker process flow2](https://drive.google.com/file/d/12GAGl1uGlVcMYqs91rPXskwFRUolfPyt/view)
    - [LeadSparker process flow3](https://drive.google.com/file/d/1OdRMt68cT15_m_2v4QzOsnjwB3vsHjjf/view)
 - What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+  - LeadSparker does not make sales / close deals. 
 
 ### Ecosystem Fit
 
 > Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
+   - LeadSparker acts as a filter to find projects interested in deploying on the EOS EVM. It allows the ENF to more efficiently allocate business and research development resources.   
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+   - Any project listed on Coingecko, and is active on Twitter. 
 - What need(s) does your project meet?
+   - The need to find and incentivize more popular dApps on EOS. 
 - Are there any other projects similar to yours in the EOS Network / Antelope ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+  - The most similar is Effect.ai because they also employ a large network for micro-tasking purposes. From my discussions with them, the differences lie in how their workforce is organized (more decentralized than bees) and the type of microtasks they incentivize (more towards AI labeling). 
+ 
 
 ## Team
 
 ### Team members
 
-- **Team Leader:** Name of team leader
-- Name of team member 1
-- Name of team member 2
-- Name of team member 3, etc.
+- **Team Leader:** Jesse Jaffe
+- Nicolas Davoine 
+- Kevin Damken
+- Tran Tien Thuc
 
 ### Legal Structure
-- **Registered Legal Entity:** Name of your registered legal entity. (e.g. Greymass, Inc.)
-- **Registered Address:** Address of your registered legal entity. Please keep it in a single line. (e.g. 123 Main Street, London LK1 234, UK)
+- **Registered Legal Entity:** Tortuga Advertising LLC
+- **Registered Address:** 4000 Towerside Terrace Miami, FL 33138
 
 ### Team Experience
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
+
+
 
 > If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
 
