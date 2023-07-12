@@ -64,25 +64,11 @@
 
 The LeadSparker team is approaching 2 years experience in managing a microtask workforce. The EOS community is familiar with our Swarm service, detailed in this Pomelo grant --> https://pomelo.io/grants/eosbees
 
-A Swarm represents open-source Web3 technology and a large network of real humans who are incentivized to engage on social media content on Twitter. The value comes from the Bees engaging simultaneously. It creates amplified effects on the social media algorithms. It creates positive sentiment for EOS. 
+A Swarm represents open-source Web3 technology and a large network of real humans who are incentivized to engage on social media content on Twitter. The value comes from the Bees engaging simultaneously. It creates amplified effects on the social media algorithms. It creates positive sentiment for EOS, as measured by social sentiment tools. 
 
-### Team Org Repos
+### Team LinkedIn Profiles
 
-- https://github.com/<your_organization>
-- https://github.com/<your_organization>/<project_1>
-- https://github.com/<your_organization>/<project_2>
-
-> Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-### Team Member Repos
-
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
-
-### Team LinkedIn Profiles (if available)
-
-- https://www.linkedin.com/in/<person_1>
-- https://www.linkedin.com/in/<person_2>
+- https://www.linkedin.com/in/jesse-jaffe-3aa326144/
 
 ## Development Status
 
@@ -93,6 +79,10 @@ A Swarm represents open-source Web3 technology and a large network of real human
 - links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
 - references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
 - previous interface iterations, such as mock-ups and wireframes.
+
+LeadSparker is currently operational. We have deployed a campaign to promote LeadSparker and Swarms, proving we can effectively surpass both qualification steps (leads responding) and organize a team across multiple offerings. 
+
+The [LeadSparker case study](https://leadsparker.medium.com/leadsparker-case-study-112ce14c5bea) highlights the 2-step lead qualification process via real world examples. 
 
 ## Development Roadmap
 
