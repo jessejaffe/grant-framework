@@ -35,8 +35,6 @@
 
 ### Ecosystem Fit
 
-> Help us locate your project in the EOS Network landscape and what problems it tries to solve by answering each of these questions:
-
 - Where and how does your project fit into the ecosystem?
    - LeadSparker acts as a filter to find projects interested in deploying on the EOS EVM. It allows the ENF to more efficiently allocate business and research development resources.   
 - Who is your target audience (chain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
@@ -64,9 +62,9 @@
 
 > Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful. If you applied for a Pomelo grant in the past, please be sure you listed them in the section above and mention them in detail in this section.
 
+The LeadSparker team is approaching 2 years experience in managing a microtask workforce. The EOS community is familiar with our Swarm service, detailed in this Pomelo grant --> https://pomelo.io/grants/eosbees
 
-
-> If anyone on your team has applied for a grant at the EOS Network Foundation previously, please list the name of the project and legal entity here.
+A Swarm represents open-source Web3 technology and a large network of real humans who are incentivized to engage on social media content on Twitter. The value comes from the Bees engaging simultaneously. It creates amplified effects on the social media algorithms. It creates positive sentiment for EOS. 
 
 ### Team Org Repos
 
