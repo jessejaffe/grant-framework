@@ -72,17 +72,15 @@ A Swarm represents open-source Web3 technology and a large network of real human
 
 ## Development Status
 
-> If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/eosnetworkfoundation/grant-framework/tree/main/docs/rfps) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the EOS Network Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
-
 LeadSparker is currently operational. We have deployed a campaign to promote LeadSparker and Swarms, proving we can effectively surpass both qualification steps (leads responding) and organize a team across multiple offerings. 
 
 The [LeadSparker case study](https://leadsparker.medium.com/leadsparker-case-study-112ce14c5bea) highlights the 2-step lead qualification process via real world examples. 
+
+This proposal is to implement the LeadSparker process on 950-1000 leads that fit the criteria of:
+1. Being active on Twitter - has tweeted at least once in the last 2 weeks
+2. Having a profile on coingeico with at least $1MM and maximum of $380MM marketcap.
+
+We project that 50% of the leads will pass criteria #1. This means 2000 leads will need to be considered for inclusion in building the lead list. 
 
 ## Development Roadmap
 
